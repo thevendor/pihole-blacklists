@@ -22,6 +22,7 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 0.0.0.0 grepolis.com
+0.0.0.0 grepolis.ro
 # End of custom host records.
 # Start thevendor
 
